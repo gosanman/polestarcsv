@@ -1,0 +1,14 @@
+{
+	"id": "{A1F6DDFC-7B63-3F24-03A1-C214BFFD2271}",
+	"name": "PolestarCSV",
+	"type": 3,
+	"vendor": "",
+	"aliases": 
+	[
+		"PolestarCSV"
+	],
+	"parentRequirements": [],
+	"childRequirements": [],
+	"implemented": [],
+	"prefix": "PCSV"
+}

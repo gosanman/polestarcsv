@@ -1,0 +1,12 @@
+{
+	"id": "{4C3E4C74-CBCE-E4DF-9A89-7E6FA60072E5}",
+	"author": "sanman",
+	"name": "PolestarCSV",
+	"url": "https://github.com/gosanman/polestarcsv",
+	"compatibility": {
+		"version": "6.0"
+	},
+	"version": "0.1",
+	"build": 0,
+	"date": 0
+}
